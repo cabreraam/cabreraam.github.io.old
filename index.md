@@ -17,7 +17,7 @@ architecture.
 
 ## Education 
 
-### Washington University in St. Louis
+### Washington University in St. Louis<br/>
 Ph.D. Computer Engineering<br/>
 M.S. Computer Science<br/>
 B.S. Computer Engineering, Second Major Computer Science<br/>
