@@ -4,7 +4,6 @@ title: Anthony Cabrera's Homepage
 
 # Welcome!
 
-## Biographical Sketch
 I am a Sotware Engineer in the [Future Technologies 
 Group](https://csmd.ornl.gov/group/future-technologies) at [Oak Ridge National
 Laboratory](https://www.ornl.gov/) and focus on hardware and systems in a
@@ -31,3 +30,4 @@ B.S.A.S. Electrical Engineering<br/>
 **Hendrix College**<br/>
 B.A. in Chemical Physics, Minor Music
 
+[Pubs](/pubs.md) [CV (August 2020)](cv.pdf)
