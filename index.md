@@ -19,8 +19,11 @@ architecture.
 
 ### Washington University in St. Louis
 Ph.D. Computer Engineering
+
 M.S. Computer Science
+
 B.S. Computer Engineering, Second Major Computer Science
+
 B.S.A.S. Electrical Engineering
 
 
