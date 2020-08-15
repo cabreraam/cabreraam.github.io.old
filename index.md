@@ -18,13 +18,10 @@ architecture.
 ## Education 
 
 ### Washington University in St. Louis
-Ph.D. Computer Engineering
-
-M.S. Computer Science
-
-B.S. Computer Engineering, Second Major Computer Science
-
-B.S.A.S. Electrical Engineering
+Ph.D. Computer Engineering<br/>
+M.S. Computer Science<br/>
+B.S. Computer Engineering, Second Major Computer Science<br/>
+B.S.A.S. Electrical Engineering<br/>
 
 
 ### Hendrix College 
