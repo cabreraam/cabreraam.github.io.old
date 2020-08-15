@@ -17,14 +17,14 @@ architecture.
 
 ## Education 
 
-### Washington University in St. Louis<br/>
+*Washington University in St. Louis*<br/>
 Ph.D. Computer Engineering<br/>
 M.S. Computer Science<br/>
 B.S. Computer Engineering, Second Major Computer Science<br/>
 B.S.A.S. Electrical Engineering<br/>
 
 
-### Hendrix College 
+*Hendrix College*<br/>
 B.A. in Chemical Physics, Minor Music
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It
