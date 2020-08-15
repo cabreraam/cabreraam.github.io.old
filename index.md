@@ -1,14 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on
-GitHub](https://github.com/cabreraam/cabreraam.github.io/edit/master/index.md)
-to maintain and preview the content for your website in Markdown files.
+## Biographical Sketch
+I am a Sotware Engineer in the [Future Technologies 
+Group](https://csmd.ornl.gov/group/future-technologies) at [Oak Ridge National
+Laboratory](https://www.ornl.gov/) and focus on hardware and systems in a
+post-Moore landscape. I earned my Ph.D. in Computer Engineering 
+at [Washington University in St. 
+Louis](https://cse.wustl.edu/Pages/default.aspx), where I was advised by [Roger
+Chamberlain](https://www.cse.wustl.edu/~roger/). My dissertation focused on
+domain specific computing through leveraging FPGAs using high level synthesis
+as a means to architect hardware for the domain of data integration. In
+general, my research interests include heterogeneous systems, hardware
+accelerators, high level synthesis, high performance computing, and computer
+architecture. 
 
-Whenever you commit to this repository, GitHub Pages will run
-[Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the
-content in your Markdown files.
 
-### Markdown
+## Education 
+
+### Washington University in St. Louis
+Ph.D. Computer Engineering
+M.S. Computer Science
+B.S. Computer Engineering, Second Major Computer Science
+B.S.A.S. Electrical Engineering
+
+
+### Hendrix College 
+B.A. in Chemical Physics, Minor Music
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It
 includes conventions for
@@ -28,20 +45,6 @@ includes conventions for
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src) 
+
 ```
 
-For more details see [GitHub Flavored
-Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have
-selected in your [repository
-settings](https://github.com/cabreraam/cabreraam.github.io/settings). The name
-of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our
-[documentation](https://docs.github.com/categories/github-pages-basics/) or
-[contact support](https://github.com/contact) and we’ll help you sort it out.
