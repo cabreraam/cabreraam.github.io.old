@@ -13,8 +13,8 @@ I earned my Ph.D. in Computer Engineering
 at [Washington University in St. 
 Louis](https://cse.wustl.edu/Pages/default.aspx), where I was advised by [Roger
 Chamberlain](https://www.cse.wustl.edu/~roger/). My dissertation focused on
-domain specific computing through leveraging FPGAs using high level synthesis
-as a means to architect hardware for the domain of data integration. 
+domain specific computing. Specifically, I leveraged FPGAs using high level 
+synthesis as a means to architect hardware for the domain of data integration.
 
 In general, my research interests include heterogeneous systems, hardware
 accelerators, high level synthesis, high performance computing, and computer
