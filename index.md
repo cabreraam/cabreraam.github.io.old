@@ -36,5 +36,5 @@ B.A. in Chemical Physics, Minor Music
 [Pubs](/pubs)<br/>
 [Google 
 Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
-[CV (August 2020)](/assets/cv.pdf)
+[CV (August 2020)](/assets/cv.pdf)<br/>
 [Twitter](https://twitter.com/cabreraam33)
