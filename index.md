@@ -30,4 +30,5 @@ B.S.A.S. Electrical Engineering<br/>
 **Hendrix College**<br/>
 B.A. in Chemical Physics, Minor Music
 
-[Pubs](/pubs) --- [CV (August 2020)](/assets/cv.pdf)
+[Pubs](/pubs)
+[CV (August 2020)](/assets/cv.pdf)
