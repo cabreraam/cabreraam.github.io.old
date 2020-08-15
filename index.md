@@ -6,14 +6,17 @@ title: Anthony Cabrera's Homepage
 
 I am a Sotware Engineer in the [Future Technologies 
 Group](https://csmd.ornl.gov/group/future-technologies) at [Oak Ridge National
-Laboratory](https://www.ornl.gov/) and focus on hardware and systems in a
-post-Moore landscape. I earned my Ph.D. in Computer Engineering 
+Laboratory](https://www.ornl.gov/) and my focus is on hardware and systems for a
+post-Moore compute landscape. 
+
+I earned my Ph.D. in Computer Engineering 
 at [Washington University in St. 
 Louis](https://cse.wustl.edu/Pages/default.aspx), where I was advised by [Roger
 Chamberlain](https://www.cse.wustl.edu/~roger/). My dissertation focused on
 domain specific computing through leveraging FPGAs using high level synthesis
-as a means to architect hardware for the domain of data integration. In
-general, my research interests include heterogeneous systems, hardware
+as a means to architect hardware for the domain of data integration. 
+
+In general, my research interests include heterogeneous systems, hardware
 accelerators, high level synthesis, high performance computing, and computer
 architecture. 
 
