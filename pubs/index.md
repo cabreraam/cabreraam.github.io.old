@@ -6,6 +6,8 @@ title: Anthony Cabrera's Publications
 
 # Publications
 
+## 2020
+
 - **AM Cabrera**, RD Chamberlain, "Design and Performance Evaluation of
 Optimizations for OpenCL FPGA Kernels,"
 *IEEE High Performance Extreme Computing Conference (HPEC)*, 
@@ -26,6 +28,8 @@ May 2020<br/>
 [\[Slides\]](/assets/presentations/cc_fccm20_pres.pdf)
 [\[Presentation\]](https://wustl.app.box.com/s/f9dajy6pn0o6s67vmwsxgzurn03ut9bq)
 
+## 2019
+
 - **AM Cabrera**, RD Chamberlain, JC Beard,
 "Multi-spectral Reuse Distance: Divining Spatial Information from Temporal 
 Data," 
@@ -44,6 +48,8 @@ May 2019<br/>
 "Data Integration Tasks on Heterogeneous Systems Using OpenCL," 
 *ACM International Workshop on OpenCL (IWOCL)*,
 May 2019<br/>
+
+## 2018
 
 - **AM Cabrera**, CJ Faber, K Cepeda, R Derber, C Epstein, J Zheng, RK Cytron, 
 RD Chamberlain 
