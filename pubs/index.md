@@ -11,6 +11,13 @@ Optimizations for OpenCL FPGA Kernels,"
 *IEEE High Performance Extreme Computing Conference (HPEC)*, 
 September 2020
 
+- **AM Cabrera**, "Domain Specific Computing in Tightly-Coupled Heterogeneous
+  Systems,"
+*PhD Thesis, Department of Computer Science and Engineering, Washington University 
+in St. Louis*, 
+August 2020<br/>
+[\[Slides\]](/assets/presentations/c_dissdefense20_pres.pdf)
+
 - **AM Cabrera**, RD Chamberlain, 
 "Designing Domain Specific Computing Systems," 
 *IEEE International Symposium on Field-Programmable Custom Computing  Machines 
