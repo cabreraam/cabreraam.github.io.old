@@ -22,6 +22,13 @@ accelerators, high level synthesis, high performance computing, and computer
 architecture. 
 
 
+## Research
+
+[Publications](/pubs)<br/>
+[Google 
+Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
+[CV (August 2020)](/assets/cv.pdf)<br/>
+
 ## Education 
 
 **Washington University in St. Louis**<br/>
@@ -33,13 +40,6 @@ B.S.A.S. Electrical Engineering<br/>
 
 **Hendrix College**<br/>
 B.A. in Chemical Physics, Minor Music
-
-## Research
-
-[Publications](/pubs)<br/>
-[Google 
-Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
-[CV (August 2020)](/assets/cv.pdf)<br/>
 
 ## Contact 
 cabreraam AT ornl DOT gov
