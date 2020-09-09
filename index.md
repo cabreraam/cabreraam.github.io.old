@@ -34,6 +34,8 @@ B.S.A.S. Electrical Engineering<br/>
 **Hendrix College**<br/>
 B.A. in Chemical Physics, Minor Music
 
+## Research
+
 [Publications](/pubs)<br/>
 [Google 
 Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
