@@ -11,7 +11,8 @@ title: Anthony Cabrera's Publications
 - **AM Cabrera**, RD Chamberlain, "Design and Performance Evaluation of
 Optimizations for OpenCL FPGA Kernels,"
 *IEEE High Performance Extreme Computing Conference (HPEC)*, 
-September 2020
+September 2020<br/>
+[\[Slides\]](/assets/presentations/cc_hpec20_pres.pdf)
 
 - **AM Cabrera**, "Domain Specific Computing in Tightly-Coupled Heterogeneous
   Systems,"
