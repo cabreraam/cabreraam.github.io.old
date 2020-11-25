@@ -4,7 +4,7 @@ title: Anthony Cabrera's Homepage
 
 # Welcome!
 
-I am a Sotware Engineer in the [Future Technologies 
+I am a Sotware Engineer in the [Architectures and Performance 
 Group](https://csmd.ornl.gov/group/future-technologies) at [Oak Ridge National
 Laboratory](https://www.ornl.gov/) and my focus is on hardware and systems for a
 post-Moore compute landscape. 
