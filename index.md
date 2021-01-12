@@ -27,7 +27,7 @@ architecture.
 [Publications](/pubs)<br/>
 [Google 
 Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
-[CV (August 2020)](/assets/cv.pdf)<br/>
+[CV (January 2021)](/assets/CabreraCV.pdf)<br/>
 
 ## Education 
 
