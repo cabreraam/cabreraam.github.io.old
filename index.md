@@ -32,6 +32,7 @@ Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
 
 ## Education 
 
+<!---
 **Washington University in St. Louis**<br/>
 Ph.D. Computer Engineering<br/>
 M.S. Computer Science<br/>
@@ -41,6 +42,7 @@ B.S.A.S. Electrical Engineering<br/>
 
 **Hendrix College**<br/>
 B.A. in Chemical Physics, Minor Music
+-->
 
 ## Contact 
 cabreraam AT ornl DOT gov
