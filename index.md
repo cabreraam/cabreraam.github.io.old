@@ -30,9 +30,9 @@ architecture.
 Scholar](https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en)<br/>
 [CV (January 2021)](/assets/CabreraCV.pdf)<br/>
 
+<!---
 ## Education 
 
-<!---
 **Washington University in St. Louis**<br/>
 Ph.D. Computer Engineering<br/>
 M.S. Computer Science<br/>
